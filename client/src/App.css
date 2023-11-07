@@ -1,0 +1,29 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-header {
+  background-color: #007bff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2rem;
+  color: white;
+  padding: 20px;
+}
+
+.App-header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #61dafb;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/telco/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-retrival/pom.xml" />
+        <option value="$PROJECT_DIR$/chat/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/pom.xml" />
+        <option value="$PROJECT_DIR$/registartion/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/email/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/push-alert/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/sms/pom.xml" />
+        <option value="$PROJECT_DIR$/telco/ringing-tone/pom.xml" />
+        <option value="$PROJECT_DIR$/telco/roaming/pom.xml" />
+        <option value="$PROJECT_DIR$/telco/topup/pom.xml" />
+        <option value="$PROJECT_DIR$/registration/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

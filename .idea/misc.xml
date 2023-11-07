@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/micro-services/chat/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/telco/topup/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/telco/roaming/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/telco/ringing-tone/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/bill-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/notification/sms/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/notification/email/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/notification/push-alert/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/registartion/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/bill-retrival/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/Sri-Tel-Provisioning/pom.xml" />
+        <option value="$PROJECT_DIR$/Sri-Tel-Payment/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-services/registration/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Sri-Tel-Payment/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

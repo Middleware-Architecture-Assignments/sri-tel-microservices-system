@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Sri-Tel-Payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sri-Tel-Payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sri-Tel-Provisioning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sri-Tel-Provisioning/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/bill-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/bill-retrival/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/notification/email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/notification/push-alert/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/notification/sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/registartion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/registration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/registration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/telco/ringing-tone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/telco/roaming/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-services/telco/topup/src/main/java" charset="UTF-8" />
+  </component>
+</project>
