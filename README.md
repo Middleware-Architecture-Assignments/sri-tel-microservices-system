@@ -30,4 +30,3 @@ To contribute to this project, follow these steps:
 3. Customize and extend the solution based on the provided scenario.
 
 ---
-
